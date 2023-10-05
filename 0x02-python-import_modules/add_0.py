@@ -3,8 +3,8 @@ def add(a, b):
     """My addition function
 
     Args:
-        a: first integer
-        b: second integer
+        a: first integers
+        b: second integers
 
     Returns:
         The return value. a + b
